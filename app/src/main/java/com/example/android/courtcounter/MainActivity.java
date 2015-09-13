@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    //ada perubahan
+
 
     /**
      * Displays the given score for Team A.
